@@ -1,0 +1,11 @@
+2022/11/23 16:15:02 The current highest bid is 0 from client id 0
+2022/11/23 16:15:04 Your bid of 10 is lower than the current highest bid
+2022/11/23 16:15:14 2 successfully bid 500
+2022/11/23 16:15:18 The current highest bid is 10000 from client id 3
+2022/11/23 16:15:35 Received no response from server 0, continuing to try other servers
+2022/11/23 16:15:35 Your bid of 60000 is lower than the current highest bid
+2022/11/23 16:15:37 The current highest bid is 1000000000 from client id 3
+2022/11/23 16:15:44 Received no response from server 0, continuing to try other servers
+2022/11/23 16:15:44 Received no response from server 1, continuing to try other servers
+2022/11/23 16:15:44 Your bid of 1000000 is lower than the current highest bid
+2022/11/23 16:15:49 All servers have crashed.

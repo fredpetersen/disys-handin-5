@@ -1,0 +1,32 @@
+2022/11/23 16:14:58 Listening on port 5002 
+2022/11/23 16:14:59 Got a bid with amount 0 from  client -1
+2022/11/23 16:14:59 Bidder has no ID - assigning the id: 1
+2022/11/23 16:15:01 Got a bid with amount 0 from  client -1
+2022/11/23 16:15:01 Bidder has no ID - assigning the id: 2
+2022/11/23 16:15:04 Got a bid with amount 100 from  client 1
+2022/11/23 16:15:04 Bid of 100 from client 1 was accepted
+2022/11/23 16:15:04 Got a bid with amount 10 from  client 2
+2022/11/23 16:15:04 Bid from client 2 is too low
+2022/11/23 16:15:07 Got a bid with amount 0 from  client -1
+2022/11/23 16:15:07 Bidder has no ID - assigning the id: 3
+2022/11/23 16:15:08 Got a bid with amount 120 from  client 1
+2022/11/23 16:15:08 Bid of 120 from client 1 was accepted
+2022/11/23 16:15:14 Got a bid with amount 500 from  client 2
+2022/11/23 16:15:14 Bid of 500 from client 2 was accepted
+2022/11/23 16:15:14 Got a bid with amount 1000 from  client 1
+2022/11/23 16:15:14 Bid of 1000 from client 1 was accepted
+2022/11/23 16:15:16 Got a bid with amount 10 from  client 3
+2022/11/23 16:15:16 Bid from client 3 is too low
+2022/11/23 16:15:17 Got a bid with amount 10000 from  client 3
+2022/11/23 16:15:17 Bid of 10000 from client 3 was accepted
+2022/11/23 16:15:19 Got a bid with amount 1000000000 from  client 3
+2022/11/23 16:15:19 Bid of 1000000000 from client 3 was accepted
+2022/11/23 16:15:20 Got a bid with amount 1020 from  client 1
+2022/11/23 16:15:20 Bid from client 1 is too low
+2022/11/23 16:15:22 Got a bid with amount 900 from  client 1
+2022/11/23 16:15:22 Bid from client 1 is too low
+2022/11/23 16:15:35 Got a bid with amount 60000 from  client 2
+2022/11/23 16:15:35 Bid from client 2 is too low
+2022/11/23 16:15:44 Got a bid with amount 1000000 from  client 2
+2022/11/23 16:15:44 Bid from client 2 is too low
+2022/11/23 16:15:47 CRASHED, FULLY EXPECTEDLY. GO PANIC() AAAA

@@ -13,12 +13,22 @@ service AuctionHouse {
 
 message BidType {
     int32 amount = 1;
+    int32 id = 2;
 }
 
 message Ack {
-    bool success = 1;
+    BidStatus status = 1;
+    int32 id = 2;
 }
 
 message Outcome{
     int32 amount = 1;
+    bool over = 2; // Is over
+    int32 winner = 3;
+}
+
+enum BidStatus {
+    SUCCESS = 0;
+    TOO_LOW = 1;
+    OVER = 2;
 }

@@ -1,0 +1,6 @@
+2022/11/23 16:15:04 1 successfully bid 100
+2022/11/23 16:15:08 1 successfully bid 120
+2022/11/23 16:15:12 The current highest bid is 120 from client id 1
+2022/11/23 16:15:14 1 successfully bid 1000
+2022/11/23 16:15:20 Your bid of 1020 is lower than the current highest bid
+2022/11/23 16:15:22 Your bid of 900 is lower than the current highest bid
