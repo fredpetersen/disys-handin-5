@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+
+package auctionhouse;
+option go_package = "https://github.com/fredpetersen/disys-handin-5;auctionhouse";
+
+
+service AuctionHouse {
+    rpc Bid (BidType) returns (Ack) {}
+    rpc Result(google.protobuf.Empty) returns (Outcome) {}
+}
+
+message BidType {
+    int32 amount = 1;
+}
+
+message Ack {
+    bool success = 1;
+}
+
+message Outcome{
+    int32 amount = 1;
+}
